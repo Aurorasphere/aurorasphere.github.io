@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;400&family=Jost:wght@300&display=swap');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable.css");
+
+body {
+    margin: 0;
+}
+
+div {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.navigation {
+    font-family: 'Pretendard Variable', 'Jost', sans-serif;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 100px;
+    padding-bottom: 10px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: black;
+}
+
+.navigation h1 {
+    display: inline;
+}
+
+.navigation ul {
+    display: inline;
+    margin-left: auto;
+}
+
+.navigation ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.navigation_white {
+    font-family: 'Pretendard Variable', 'Jost', sans-serif;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 100px;
+    padding-bottom: 10px;
+}
+
+.navigation_white a {
+    text-decoration: none;
+    color: white;
+}
+
+.navigation_white h1 {
+    display: inline;
+    color: white;
+}
+
+.navigation_white ul {
+    display: inline;
+    margin-left: auto;
+}
+
+.navigation_white ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.content {
+    font-family: 'Jost', 'Pretendard Variable', sans-serif; 
+    align-self: center;
+    animation-duration: 0.8s;
+    animation-name: fadein;
+}
+@keyframes fadein {
+    from {
+        color: white;
+        bottom: 1.5;
+    }
+  
+    to {
+      color: black;
+      bottom: 0;
+    }
+  }
+
+.content h1 {
+    text-align: center;
+}
+
+a {
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: purple;
+    font-weight: bold;
+}
+
+.contact {
+    font-family: 'Jost', 'Pretendard Variable', sans-serif; 
+    margin: 0%;
+  }
+
+.block {
+    display: block;
+  }
+
+.item_left {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center; 
+}
+
+.item_right {
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center; 
+}
+
+.iconcentering {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
