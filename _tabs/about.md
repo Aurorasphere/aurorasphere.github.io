@@ -38,20 +38,6 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇs ɪɴ ᴋᴏʀᴇᴀ ᴀɴ�
   - Classic CISC processor emulator, written in C/Zig.
 - HPSG-based syntactic structure analyzer for Korean, written in C/Rust
 
-<h3 align="left">Stuff I Use</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,arch,debian,bsd,neovim,vscodium" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,rust,zig,python" />
-  </a>
-</p>
-
-### Github statistics
-<p align="center">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=aurorasphere&show_icons=true&theme=catppuccin_mocha&title_color=7287fd&text_color=eff1f5&hide_border=true&layout=compact&locale=en" alt="aurorasphere" />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=aurorasphere&theme=catppuccin_mocha&title_color=7287fd&text_color=eff1f5&hide_border=true&layout=compact&langs_count=8&locale=en&card_width=320" />
-</p>
-
 ### ! ! ! LISTENING MUSIC RN ! ! !
 <div style="text-align: center;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313wyxq5oui25bqnd2wjphznzvvm&redirect=true">
